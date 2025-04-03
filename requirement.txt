@@ -4,4 +4,5 @@ streamlit
 openai
 langchain
 gradio
+requests
 
